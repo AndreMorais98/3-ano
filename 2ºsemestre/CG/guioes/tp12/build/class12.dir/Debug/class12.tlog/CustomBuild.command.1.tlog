@@ -1,0 +1,10 @@
+^C:\USERS\MORAIS\DESKTOP\CG\GUIOES\TP12\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Morais/Desktop/CG/guioes/tp12 -BC:/Users/Morais/Desktop/CG/guioes/tp12/build --check-stamp-file C:/Users/Morais/Desktop/CG/guioes/tp12/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

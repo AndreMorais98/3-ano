@@ -1,0 +1,6 @@
+models/
+config.xml
+generator
+*.o
+*.out
+build/

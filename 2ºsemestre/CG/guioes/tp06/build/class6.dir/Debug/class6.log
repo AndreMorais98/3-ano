@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Morais/Desktop/CG/guioes/tp6/CMakeLists.txt
+  main.cpp
+C:\Users\Morais\Desktop\CG\guioes\tp6\main.cpp(62,9): warning C4101: 'h': unreferenced local variable
+  class6.vcxproj -> C:\Users\Morais\Desktop\CG\guioes\tp6\build\Debug\class6.exe

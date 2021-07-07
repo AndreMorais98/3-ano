@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Morais\Desktop\CG\guioes\tp10\main.cpp(135,18): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Morais\Desktop\CG\guioes\tp10\main.cpp(135,35): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Morais\Desktop\CG\guioes\tp10\main.cpp(136,18): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Morais\Desktop\CG\guioes\tp10\main.cpp(136,35): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Morais\Desktop\CG\guioes\tp10\main.cpp(137,20): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Morais\Desktop\CG\guioes\tp10\main.cpp(137,38): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Morais\Desktop\CG\guioes\tp10\main.cpp(138,20): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Morais\Desktop\CG\guioes\tp10\main.cpp(138,38): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Morais\Desktop\CG\guioes\tp10\main.cpp(123,34): warning C4101: 'vv': unreferenced local variable
+C:\Users\Morais\Desktop\CG\guioes\tp10\main.cpp(123,28): warning C4101: 'm': unreferenced local variable
+  class10.vcxproj -> C:\Users\Morais\Desktop\CG\guioes\tp10\build\Debug\class10.exe

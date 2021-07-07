@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Morais\Desktop\CG\guioes\tp5\main.cpp(90,9): warning C4101: 'sinal': unreferenced local variable
+  class5.vcxproj -> C:\Users\Morais\Desktop\CG\guioes\tp5\build\Debug\class5.exe

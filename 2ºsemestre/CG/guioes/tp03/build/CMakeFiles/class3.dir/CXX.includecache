@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/morais/desktop/cg/exercicios/tp3/main.cpp
+OpenGL/gl.h
+-
+GLUT/glut.h
+-
+GL/gl.h
+-
+GL/glut.h
+-
+math.h
+-
+

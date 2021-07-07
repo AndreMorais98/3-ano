@@ -1,0 +1,10 @@
+^C:\USERS\MORAIS\DESKTOP\CG\GUIOES\TP9\BUILD\CMAKEFILES\85A1D95A44DA9EC90569B3E51C5F4DCB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Morais/Desktop/CG/guioes/tp9 -BC:/Users/Morais/Desktop/CG/guioes/tp9/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Morais/Desktop/CG/guioes/tp9/build/class9.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

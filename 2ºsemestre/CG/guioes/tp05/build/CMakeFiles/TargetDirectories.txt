@@ -1,0 +1,3 @@
+C:/Users/Morais/Desktop/CG/guioes/tp5/build/CMakeFiles/class5.dir
+C:/Users/Morais/Desktop/CG/guioes/tp5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Morais/Desktop/CG/guioes/tp5/build/CMakeFiles/ZERO_CHECK.dir

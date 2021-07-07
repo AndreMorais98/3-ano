@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/Morais/Desktop/CG/guioes/tp11/CMakeLists.txt
+  main.cpp
+C:\Users\Morais\Desktop\CG\guioes\tp11\main.cpp(289,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+  class11.vcxproj -> C:\Users\Morais\Desktop\CG\guioes\tp11\build\Debug\class11.exe

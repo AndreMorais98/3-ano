@@ -1,0 +1,10 @@
+^C:\USERS\MORAIS\DESKTOP\CG\GUIOES\TP12\BUILD\CMAKEFILES\4C0DD51116CF2121B3DD084E15E5AB7B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Morais/Desktop/CG/guioes/tp12 -BC:/Users/Morais/Desktop/CG/guioes/tp12/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Morais/Desktop/CG/guioes/tp12/build/class12.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

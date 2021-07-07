@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Morais/Desktop/CG/guioes/tp7/CMakeLists.txt
+  main.cpp
+C:\Users\Morais\Desktop\CG\guioes\tp7\main.cpp(122,9): warning C4101: 'sinal': unreferenced local variable
+  class7.vcxproj -> C:\Users\Morais\Desktop\CG\guioes\tp7\build\Debug\class7.exe

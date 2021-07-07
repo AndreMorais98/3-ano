@@ -1,0 +1,10 @@
+^C:\USERS\MORAIS\DESKTOP\CG\GUIOES\TP8\BUILD\CMAKEFILES\96D8C70AE2AF7BDD13901A30161823ED\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Morais/Desktop/CG/guioes/tp8 -BC:/Users/Morais/Desktop/CG/guioes/tp8/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Morais/Desktop/CG/guioes/tp8/build/class8.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

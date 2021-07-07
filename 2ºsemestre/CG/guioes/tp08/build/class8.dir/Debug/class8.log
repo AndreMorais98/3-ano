@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/Morais/Desktop/CG/guioes/tp8/CMakeLists.txt
+  catmull-rom.cpp
+C:\Users\Morais\Desktop\CG\guioes\tp8\catmull-rom.cpp(85,24): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Morais\Desktop\CG\guioes\tp8\catmull-rom.cpp(85,33): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Morais\Desktop\CG\guioes\tp8\catmull-rom.cpp(94,21): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  class8.vcxproj -> C:\Users\Morais\Desktop\CG\guioes\tp8\build\Debug\class8.exe
