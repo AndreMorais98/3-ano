@@ -8,17 +8,17 @@
 
 ## 3.º ano - 1.º Semestre
 
-  * [Bases de Dados](3/BD/EventsWorkbench)
+  * [Bases de Dados](https://github.com/Demorales1998/3-ano/tree/main/1%C2%BAsemestre/BD)
 
-  * [Desenvolvimento de Sistemas de Software](3/DSS)
+  * [Desenvolvimento de Sistemas de Software](https://github.com/Demorales1998/3-ano/tree/main/1%C2%BAsemestre/DSS)
 
-  * [Sistemas Distribuídos](3/SD/CloudManagementServices)
+  * [Sistemas Distribuídos](https://github.com/Demorales1998/3-ano/tree/main/1%C2%BAsemestre/SD)
 
-  * [Modelos Determinísticos de Investigação Operacional](3/MDIO)
+  * [Modelos Determinísticos de Investigação Operacional](https://github.com/Demorales1998/3-ano/tree/main/1%C2%BAsemestre/MDIO)
 
-  * [Métodos Numéricos e Otimização não Linear](3/MNONL)
+  - Métodos Numéricos e Otimização não Linear
 
-  * [Redes de Computadores](3/RC)
+  * [Redes de Computadores](https://github.com/Demorales1998/3-ano/tree/main/1%C2%BAsemestre/REDES)
 
 
 ## 3.º ano - 2.º Semestre
