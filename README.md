@@ -23,14 +23,14 @@
 
 ## 3.º ano - 2.º Semestre
 
-  * [Sistemas de Representação de Conhecimento e Raciocínio](https://github.com/catarinamachado/SRCR)
+  * [Sistemas de Representação de Conhecimento e Raciocínio](https://github.com/Demorales1998/3-ano/tree/main/2%C2%BAsemestre/SRCR)
 
-  * [Comunicações por Computador](3/CC/)
+  - Comunicações por Computador
 
-  * [Processamento de Linguagens](3/PL)
+  * [Processamento de Linguagens](https://github.com/Demorales1998/3-ano/tree/main/2%C2%BAsemestre/PL)
 
-  * [Laboratórios de Informática IV](https://github.com/catarinamachado/ACE-it---Cooking-assistant)
+  * [Laboratórios de Informática IV](https://github.com/Demorales1998/3-ano/tree/main/2%C2%BAsemestre/LI4)
 
-  * [Computação Gráfica](3/CG)
+  * [Computação Gráfica](https://github.com/Demorales1998/3-ano/tree/main/2%C2%BAsemestre/CG)
 
-  * [Modelos Estocásticos de Investigação Operacional](3/MEIO)
+  - Modelos Estocásticos de Investigação Operacional
