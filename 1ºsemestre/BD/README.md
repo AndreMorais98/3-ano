@@ -1,5 +1,4 @@
-# BD-1920
-# Projeto AER - Base de Dados
+# Base de Dados
 
 Trabalho realizado pelos elementos:
 
@@ -8,7 +7,7 @@ Trabalho realizado pelos elementos:
 - [Luís Ribeiro, A85954](https://github.com/luis1ribeiro)
 - [Pedro Rodrigues, A84783](https://github.com/pedrordgs)
 
---
+---
 
 ## Clinica+
 
